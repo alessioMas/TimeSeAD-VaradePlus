@@ -20,13 +20,3 @@ To use this repository, follow the steps below:
 
 3. **Refer to TimeSeAD Documentation**:
    For detailed instructions on using TimeSeAD, please refer to the [TimeSeAD documentation](https://timesead.readthedocs.io/en/latest/).
-
-## Citation
-
-If you use this repository or the VARADE++ method in your research, please cite the corresponding paper:
-
-```
-@inproceedings{varade,
-  title={VARADE++: An Edge-Friendly Framework for Real-Time Anomaly Detection in Production Plants}
-}
-```
